@@ -1,12 +1,14 @@
-# SUS ONLINE
+<img src="docs/img/sus_online.jpg" width="300" height="300">
 
-`TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+#### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS 
 
-`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10`
+Tecnologia em Análise e Desenvolvimento de Sistemas 
 
-`1º SEMESTRE DE 2022`
+#### SUS ONLINE
 
-![alt text](docs/img/sus_online.jpg)
+Projeto de Desenvolvimento de Aplicação Web Front-End
+
+1º semestre de 2022
 
 Website em desenvolvimento a fim de propiciar maior agilidade nos atendimentos fornecidos pelo sistema público de saúde.
 
@@ -49,4 +51,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/"SUS Online - Google Chrome - 26 June 2022 (1) (1).mp4"> Apresentação da solução</a></li>
+
+
+
