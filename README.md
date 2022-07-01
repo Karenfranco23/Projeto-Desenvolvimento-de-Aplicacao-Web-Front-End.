@@ -25,10 +25,6 @@ Website em desenvolvimento a fim de propiciar maior agilidade nos atendimentos f
 
 * Daniela Carvalho Monteiro Ferreira
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
 # Documentação
 
 <ol>
