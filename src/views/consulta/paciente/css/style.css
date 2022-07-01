@@ -1,0 +1,87 @@
+.material-icons {
+    size: 25px;
+    color: #3FBAD8;
+}
+
+.icons-head {
+    size: 110px;
+    margin: 5px;
+    color: #FFFFFF;
+}
+
+
+
+.col-lg-5 .agendamento-texto {
+    min-width: 350px;
+    height: 145px;
+    left: 55px;
+    top: 150px;
+    background:  #e5e5e5;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #000;
+}
+
+.row .tabela-de-agendamentos .material-icons {
+    position: relative;
+    vertical-align: middle;
+    color: #000;
+}
+
+.name {
+    position: relative;
+    top: 25px;
+    left: 25px;   
+}
+
+.date {
+    position: relative;
+    left: 200px;
+    
+}
+
+.hour {
+    position: relative;
+    left: 200px;
+    
+}
+
+.button {    
+    position: relative;
+    top: 15px;
+    left: 200px;
+    width: 170px;
+    height: 35px;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    background-color: #8A8982;
+    border: none;
+}
+.button1 {   
+    width: 170px;
+    height: 35px;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    background-color: #b0d9f1;
+    border: none;
+}
+.video {
+    min-width: 350px; 
+    max-width: 700px;
+    min-height: 440px;
+    max-height: 700px;
+    border-radius: 5px;
+    background-color: #C4C4C4;
+    
+}
+.video1 {
+    min-width: 350px; 
+    max-width: 700px;
+    min-height: 440px;
+    max-height: 700px;
+    border-radius: 5px;
+    
+}

@@ -1,0 +1,69 @@
+.box{
+position: absolute;
+width: 870px;
+height: 650px;
+left: 610px;
+top: 180px;
+
+background: #C4C4C4;
+border-radius: 5px;
+text-align: center;
+font-size: 24px;
+}
+
+.botao-visualizar{
+position: absolute;
+width: 190.44px;
+height: 46.02px;
+left: 620px;
+top: 850px;
+
+background: rgba(104, 194, 245, 0.3);
+border-radius: 5px;
+border-color: rgba(104, 194, 245, 0.3);
+}
+
+.botao-imprimir{
+position: absolute;
+width: 190.44px;
+height: 46.02px;
+left: 870px;
+top: 850px;
+
+background: rgba(104, 194, 245, 0.3);
+border-radius: 5px;
+border-color: rgba(104, 194, 245, 0.3);
+}
+
+input[type="file"]{
+display: none;
+}
+
+label{
+    position: absolute;
+    width: 190.44px;
+    height: 46.02px;
+    top: 850px;
+    left: 1120px;
+    padding: 10px;
+    background: rgba(104, 194, 245, 0.3);
+border: 2.7px solid  rgba(104, 194, 245, 0.3);
+border-radius: 5px;
+text-align: center;
+cursor: pointer;
+}
+
+input[type="submit"],
+[type="reset"] {
+    position: absolute;
+    width: 83px;
+    height: 35px;
+    top: 850px;
+    left: 1235px;
+    margin-left: 155px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #3FBAD8;
+    border: 0;
+    cursor: pointer;
+}
