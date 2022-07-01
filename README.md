@@ -25,7 +25,7 @@ Website em desenvolvimento a fim de propiciar maior agilidade nos atendimentos f
 
 * Daniela Carvalho Monteiro Ferreira
 
-# Documentação
+## Documentação
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
@@ -41,11 +41,7 @@ Website em desenvolvimento a fim de propiciar maior agilidade nos atendimentos f
 <li><a href="docs/11-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
+## Apresentação
 
 <li><a href="presentation/"SUS Online - Google Chrome - 26 June 2022 (1) (1).mp4"> Apresentação da solução</a></li>
 
