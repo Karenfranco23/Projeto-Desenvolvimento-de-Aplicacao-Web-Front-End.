@@ -23,7 +23,7 @@ Website em desenvolvimento a fim de propiciar maior agilidade nos atendimentos f
 
 ## Orientador
 
-* Daniela Carvalho Monteiro Ferreira
+* Prof.ª Dra. Daniela Carvalho Monteiro Ferreira
 
 ## Documentação
 
