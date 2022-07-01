@@ -1,8 +1,10 @@
 # SUS ONLINE
 
-**TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC Minas**
+## PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS 
 
-**Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10**
+Tecnologia em Análise e Desenvolvimento de Sistemas 
+
+**Projeto: Desenvolvimento de Aplicação Web Front-End**
 
 **1º SEMESTRE DE 2022**
 
