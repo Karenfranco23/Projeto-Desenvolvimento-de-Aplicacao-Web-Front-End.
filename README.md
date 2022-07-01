@@ -1,4 +1,4 @@
-<img src="docs/img/sus_online.jpg" width="300" height="300">
+<img src="docs/img/sus_online.jpg" width="300" >
 
 #### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS 
 
