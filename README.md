@@ -1,13 +1,13 @@
 
-### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS 
+#### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS 
 
 Tecnologia em Análise e Desenvolvimento de Sistemas 
 
-### SUS ONLINE
+#### SUS ONLINE
 
-**Projeto: Desenvolvimento de Aplicação Web Front-End**
+Projeto de Desenvolvimento de Aplicação Web Front-End
 
-**1º SEMESTRE DE 2022**
+1º semestre de 2022
 
 ![alt text](docs/img/sus_online.jpg)
 
