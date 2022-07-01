@@ -51,17 +51,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 <li><a href="presentation/"SUS Online - Google Chrome - 26 June 2022 (1) (1).mp4"> Apresentação da solução</a></li>
 
-Conjunto de slides com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
 
-![alt text](/docs/img/slides/Slide1.PNG)
-
-![alt text](/docs/img/slides/Slide2.PNG)
-
-![alt text](/docs/img/slides/Slide3.PNG)
-
-![alt text](/docs/img/slides/Slide4.PNG)
-
-![alt text](/docs/img/slides/Slide5.PNG)
-
-![alt text](/docs/img/slides/Slide6.PNG)
 
