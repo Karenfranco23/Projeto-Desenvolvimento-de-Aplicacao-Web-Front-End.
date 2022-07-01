@@ -1,6 +1,6 @@
 # SUS ONLINE
 
-**TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS PUC Minas**
+**TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC Minas**
 
 **Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10**
 
