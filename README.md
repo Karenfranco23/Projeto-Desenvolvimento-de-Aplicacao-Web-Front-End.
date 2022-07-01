@@ -1,10 +1,10 @@
 # SUS ONLINE
 
-`TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+**TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**
 
-`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10`
+**Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10**
 
-`1º SEMESTRE DE 2022`
+**1º SEMESTRE DE 2022**
 
 ![alt text](docs/img/sus_online.jpg)
 
