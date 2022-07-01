@@ -9,7 +9,7 @@ Projeto de Desenvolvimento de Aplicação Web Front-End
 
 1º semestre de 2022
 
-<img src="docs/img/sus_online.jpg" width="200">
+<img src="docs/img/sus_online.jpg" width="300" height="300">
 
 Website em desenvolvimento a fim de propiciar maior agilidade nos atendimentos fornecidos pelo sistema público de saúde.
 
